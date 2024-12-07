@@ -1,0 +1,1 @@
+print ("naknang tokwa")
