@@ -1,0 +1,31 @@
+firstname = input ("Please input your First name: ")
+middlename = input ("Please input your Middle name: ")
+lastname = input ("Please input your Last name: ")
+nickname= input ("Please input your Nickname: ")
+age = input ("Please input your Age: ")
+gender = input ("Please input your Gender: ")
+address = input ("Please input your Address: ")
+birthplace = input ("Please input your Birth place: ")
+citizenship = input ("Please input your citizenship: ") 
+email = input ("Please input your Email address: ")
+religion = input ("Please input your religion: ")
+mobilenumber = input ("Please input your Mobile number: ")
+civilstatus = input ("Please input your Civil status: ")
+hobbies = input ("Please input your Hobbies: ")
+
+
+print("Hi, My name is " + firstname + " " + middlename + " " + lastname )
+print("You can call me " + nickname )
+print("I am " + age + " years old "  )
+print("I'm " + gender )
+print("I lived in " + address )
+print("I was born in " + birthplace )
+print("I am an " + citizenship + " citizen "  )
+print("My Email address is " + email )
+print("My religion is " + religion )
+print("My mobile number is " + mobilenumber )
+print("I am currently " + civilstatus )
+print("I enjoy " + hobbies )
+
+
+
